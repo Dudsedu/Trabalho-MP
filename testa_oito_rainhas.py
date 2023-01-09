@@ -1,4 +1,5 @@
 import oito_rainhas
+import pytest
 # Caso exista alguma posição de ataque o programa irá retornar 1, caso seja uma solução ao problema das 8 rainhas irá retornar 0, e caso não seja uma entrada válida ao teste o retorno será igual a -1
 # Em suma:
 # 0 = Não é solução para o problema das 8 rainhas

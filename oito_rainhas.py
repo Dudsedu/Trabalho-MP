@@ -1,4 +1,4 @@
-def verifica():
+def verifica(tabuleiro):
     flag = True
     for linha in range(8):
         for coluna in range(8):
